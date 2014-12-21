@@ -1,7 +1,5 @@
 processUCIData <- function(work_dir) {
   
-  work_dir <- "c:/datasciencecoursera/C3_Project"
-  
   ## Load the data labels
   labels <- read.table(paste(work_dir, "/UCI HAR Dataset/features.txt", sep = ""), sep = "")
   act_labels <- read.table(paste(work_dir, "/UCI HAR Dataset/activity_labels.txt", sep=""))
