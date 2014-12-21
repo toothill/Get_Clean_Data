@@ -1,8 +1,8 @@
-****************************************
-* Author:  RBT
-* Date:  December 21, 2014
-* Source File:  run_analytis.R
-****************************************
+****************************************<BR>
+* Author:  RBT<BR>
+* Date:  December 21, 2014<BR>
+* Source File:  run_analytis.R<BR>
+****************************************<BR>
 
 run_analysis.R generates a tidy dataset of UCI data by executing the following steps:
 
