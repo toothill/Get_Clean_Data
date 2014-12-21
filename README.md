@@ -24,7 +24,7 @@ run_analysis.R generates a tidy dataset of UCI data by executing the following s
 (5)  Processes the TRAIN data to include:
 		* Subjects
 		* Activities
-		* Test Measurements
+		* Test Measurements 
 (6)  Combine the TEST & TRAIN datasets
 (7)  Define the Activity Descriptions (by merging combined dataset + activity labels)
 (8)  Refine the columns in the tidy dataset to include on Mean & Standard Deviation
